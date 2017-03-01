@@ -14,7 +14,7 @@ String key[10] = {"VK_VOLUME_UP",
 "",
 "",
 "",
-""};
+"LOCK"};
 
 
 
